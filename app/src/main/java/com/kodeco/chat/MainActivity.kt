@@ -41,7 +41,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     KodecoChatTheme {
-        //adding another comment
+        //adding another comments
         Greeting("Kendall")
     }
 }
